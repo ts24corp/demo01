@@ -34,7 +34,7 @@ without duplicating code.
 To test this starter out, install the latest version of the Ionic CLI and run:
 
 ```bash
-test pull request
+
 ionic start mySuperApp super
 ```
 
